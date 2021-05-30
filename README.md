@@ -57,7 +57,7 @@ clone or for repo
 Need to install npm dependencies
 * npm
   ```sh
-  npm install i
+  npm install 
   ```
 
 ### Installation
